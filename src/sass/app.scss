@@ -8,10 +8,10 @@ body {
     font-family: 'montserrat', sans-serif;
 
     .app {
-        background-image : url('../assets/cold-bg.jpg');
+        background-image : url('../assets/cold2.jpg');
         background-size: cover;
-        background-position: bottom;
-        transition: 0.4 ease-out;
+        background-position: center;
+        transition: 0.5s ease-out;
 
         main {
             min-height: 100vh;
@@ -101,7 +101,7 @@ body {
     }
 
     & .warm {
-        background-image: url('../assets/warm-bg.jpg');
+        background-image: url('../assets/warm.jpg');
     }
 }
 
