@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# About Weather App
+Weather App is a simple application written in React.js. Using the weather API, it shows the current weather conditions and temperature anywhere on earth.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
